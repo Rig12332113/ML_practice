@@ -1,0 +1,1 @@
+- classify voice data to 41 types of Phoneme.
