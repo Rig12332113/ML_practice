@@ -6,4 +6,5 @@ This is a repository for saving the data of machine learning practice.
     2. Practice2: classification
         extra material (CNN): https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html
     3. Practice3: CNN
+        extra material (pretrained model): https://pytorch.org/vision/stable/models.html
     
